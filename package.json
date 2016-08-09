@@ -14,8 +14,7 @@
     "mobx": "^2.3.7",
     "mobx-react": "^3.5.1",
     "react": "^15.2.1",
-    "react-dom": "^15.3.0",
-    "react-test-renderer": "^15.3.0"
+    "react-dom": "^15.3.0"
   },
   "devDependencies": {
     "babel-jest": "^14.1.0",
@@ -35,7 +34,6 @@
     "webpack-dev-server": "^1.14.1"
   },
   "jest": {
-    "automock": false,
     "scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
     "testFileExtensions": [
       "js"
